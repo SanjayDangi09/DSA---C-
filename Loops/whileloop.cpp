@@ -10,6 +10,8 @@ int main () {
     cout << " Enter the no. :" ;
     cin >> number ;
 
+// when the negative no. is enterd the loop will terminated.
+// The sum wil display after loop termination .  
 
     while (number >= 0){
 
@@ -18,12 +20,10 @@ int main () {
         cout << " Enter the no. :" ;
         cin >> number ;
 
-      
-  
 
     }
-    cout <<sum;
+
+    cout << " The sum of no. is :" << sum ;
     return 0 ;
 
-   
 }
