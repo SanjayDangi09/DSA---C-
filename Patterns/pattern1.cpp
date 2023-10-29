@@ -23,9 +23,9 @@ int main(){
             cout << ch << " ";
             j++;
         }
-        cout << endl;
-         i++;
 
+        cout << endl;
+        i++;
     }
-   
+
 }
